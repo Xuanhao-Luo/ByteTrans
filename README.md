@@ -11,7 +11,7 @@
 
 
 
-## An Example of Lossless Compression
+## An Example of Lossless Packets Data Compression
 The predictive model outputs a probability distribution over 256 possible byte values (0–255), with probabilities summing to 1. Each byte is assigned a unique rank based on its probability, where rank `0` corresponds to the most probable byte, rank `1` to the second most probable byte, and so on. This ensures every byte has a deterministic and unique rank.
 
 Suppose the packet sequence needed to be compressed is `[120, 85, 90]`, the current input byte is `120`. The model outputs the following probabilities for the next byte:
