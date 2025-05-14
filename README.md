@@ -34,7 +34,7 @@ Now consider predicting the third byte, given the previous two bytes `[120, 85]`
 | `50`           | `0.15`          | `2`      |
 | ...            | ...             | ...      |
 
-The true value of the third byte is `90`, which corresponds to rank `1` based on the model’s predictions. I think this is what you called a “prediction error.” However, we do not store rank `0`. Instead, the rank `1` is stored, representing the byte `90`.
+The true value of the third byte is `90`, which corresponds to rank `1` based on the model’s predictions.
 
 ---
 
