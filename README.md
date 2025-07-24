@@ -74,9 +74,11 @@ By storing the ranks (`0` for `85` and `1` for `90`), the model ensures that the
 If you want to cite our paper in your work, please use the following BibTeX entry.
 
 ```bibtex
-@inproceedings{xuanhaoluoByteTrans2025,
-  title = {{Rank-Based Modeling for Universal Packets Compression in Multi-Modal Communications}},
-  author = {Luo, Xuanhao and Peng, Zhiyuan and Li, Zhouyu and Yu, Ruozhou and Liu, Yuchen},
-  booktitle = {{IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)}},
-  year = {2025},
+@inproceedings{luo2025rank,
+  title={Rank-Based Modeling for Universal Packets Compression in Multi-Modal Communications},
+  author={Luo, Xuanhao and Peng, Zhiyuan and Li, Zhouyu and Yu, Ruozhou and Liu, Yuchen},
+  booktitle={2025 IEEE 26th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)},
+  pages={249--258},
+  year={2025},
+  organization={IEEE}
 }
